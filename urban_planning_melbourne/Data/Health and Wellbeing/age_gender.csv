@@ -1,0 +1,181 @@
+﻿Age,Disease Type,Gender,Count
+0-24,Arthritis,M,3
+0-24,Arthritis,M,48
+25-44,Arthritis,M,169
+25-44,Arthritis,M,167
+45-64,Arthritis,M,205
+45-64,Arthritis,M,354
+65-84,Arthritis,M,416
+65-84,Arthritis,M,268
+85_over,Arthritis,M,95
+0-24,Asthma,M,221
+0-24,Asthma,M,922
+25-44,Asthma,M,1592
+25-44,Asthma,M,889
+45-64,Asthma,M,396
+45-64,Asthma,M,261
+65-84,Asthma,M,202
+65-84,Asthma,M,79
+85_over,Asthma,M,24
+0-24,Cancer,M,7
+0-24,Cancer,M,19
+25-44,Cancer,M,63
+25-44,Cancer,M,70
+45-64,Cancer,M,96
+45-64,Cancer,M,190
+65-84,Cancer,M,306
+65-84,Cancer,M,234
+85_over,Cancer,M,72
+0-24,Dementia,M,0
+0-24,Dementia,M,0
+25-44,Dementia,M,0
+25-44,Dementia,M,3
+45-64,Dementia,M,5
+45-64,Dementia,M,4
+65-84,Dementia,M,20
+65-84,Dementia,M,83
+85_over,Dementia,M,59
+0-24,Diabetes,M,6
+0-24,Diabetes,M,45
+25-44,Diabetes,M,152
+25-44,Diabetes,M,211
+45-64,Diabetes,M,239
+45-64,Diabetes,M,347
+65-84,Diabetes,M,404
+65-84,Diabetes,M,201
+85_over,Diabetes,M,65
+0-24,Heart disease,M,10
+0-24,Heart disease,M,14
+25-44,Heart disease,M,65
+25-44,Heart disease,M,80
+45-64,Heart disease,M,121
+45-64,Heart disease,M,306
+65-84,Heart disease,M,427
+65-84,Heart disease,M,327
+85_over,Heart disease,M,127
+0-24,Kidney disease,M,11
+0-24,Kidney disease,M,16
+25-44,Kidney disease,M,31
+25-44,Kidney disease,M,40
+45-64,Kidney disease,M,39
+45-64,Kidney disease,M,64
+65-84,Kidney disease,M,70
+65-84,Kidney disease,M,65
+85_over,Kidney disease,M,26
+0-24,Lung condition,M,10
+0-24,Lung condition,M,12
+25-44,Lung condition,M,28
+25-44,Lung condition,M,24
+45-64,Lung condition,M,36
+45-64,Lung condition,M,74
+65-84,Lung condition,M,120
+65-84,Lung condition,M,60
+85_over,Lung condition,M,31
+0-24,Mental Health,M,45
+0-24,Mental Health,M,957
+25-44,Mental Health,M,1671
+25-44,Mental Health,M,993
+45-64,Mental Health,M,499
+45-64,Mental Health,M,348
+65-84,Mental Health,M,166
+65-84,Mental Health,M,86
+85_over,Mental Health,M,35
+0-24,Stroke,M,5
+0-24,Stroke,M,4
+25-44,Stroke,M,12
+25-44,Stroke,M,19
+45-64,Stroke,M,18
+45-64,Stroke,M,67
+65-84,Stroke,M,94
+65-84,Stroke,M,83
+85_over,Stroke,M,35
+0-24,Arthritis,F,0
+0-24,Arthritis,F,65
+25-44,Arthritis,F,176
+25-44,Arthritis,F,176
+45-64,Arthritis,F,312
+45-64,Arthritis,F,586
+65-84,Arthritis,F,661
+65-84,Arthritis,F,552
+85_over,Arthritis,F,256
+0-24,Asthma,F,151
+0-24,Asthma,F,1073
+25-44,Asthma,F,1601
+25-44,Asthma,F,781
+45-64,Asthma,F,448
+45-64,Asthma,F,339
+65-84,Asthma,F,263
+65-84,Asthma,F,155
+85_over,Asthma,F,65
+0-24,Cancer,F,7
+0-24,Cancer,F,24
+25-44,Cancer,F,62
+25-44,Cancer,F,107
+45-64,Cancer,F,157
+45-64,Cancer,F,252
+65-84,Cancer,F,274
+65-84,Cancer,F,177
+85_over,Cancer,F,85
+0-24,Dementia,F,0
+0-24,Dementia,F,0
+25-44,Dementia,F,0
+25-44,Dementia,F,0
+45-64,Dementia,F,3
+45-64,Dementia,F,7
+65-84,Dementia,F,34
+65-84,Dementia,F,87
+85_over,Dementia,F,147
+0-24,Diabetes,F,7
+0-24,Diabetes,F,48
+25-44,Diabetes,F,102
+25-44,Diabetes,F,136
+45-64,Diabetes,F,132
+45-64,Diabetes,F,228
+65-84,Diabetes,F,220
+65-84,Diabetes,F,157
+85_over,Diabetes,F,83
+0-24,Heart disease,F,12
+0-24,Heart disease,F,32
+25-44,Heart disease,F,49
+25-44,Heart disease,F,37
+45-64,Heart disease,F,43
+45-64,Heart disease,F,108
+65-84,Heart disease,F,217
+65-84,Heart disease,F,217
+85_over,Heart disease,F,171
+0-24,Kidney disease,F,3
+0-24,Kidney disease,F,14
+25-44,Kidney disease,F,41
+25-44,Kidney disease,F,28
+45-64,Kidney disease,F,25
+45-64,Kidney disease,F,55
+65-84,Kidney disease,F,35
+65-84,Kidney disease,F,36
+85_over,Kidney disease,F,39
+0-24,Lung condition,F,5
+0-24,Lung condition,F,8
+25-44,Lung condition,F,24
+25-44,Lung condition,F,25
+45-64,Lung condition,F,37
+45-64,Lung condition,F,62
+65-84,Lung condition,F,79
+65-84,Lung condition,F,78
+85_over,Lung condition,F,35
+0-24,Mental Health,F,47
+0-24,Mental Health,F,2221
+25-44,Mental Health,F,2601
+25-44,Mental Health,F,1016
+45-64,Mental Health,F,578
+45-64,Mental Health,F,441
+65-84,Mental Health,F,231
+65-84,Mental Health,F,124
+85_over,Mental Health,F,95
+0-24,Stroke,F,0
+0-24,Stroke,F,11
+25-44,Stroke,F,15
+25-44,Stroke,F,18
+45-64,Stroke,F,16
+45-64,Stroke,F,36
+65-84,Stroke,F,63
+65-84,Stroke,F,63
+85_over,Stroke,F,45

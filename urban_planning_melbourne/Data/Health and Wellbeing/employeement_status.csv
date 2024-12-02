@@ -1,0 +1,41 @@
+﻿Disease Type,Employment Status,Count
+Arthritis,Employed,1857
+Asthma,Employed,6733
+Cancer,Employed,920
+Dementia,Employed,15
+Diabetes,Employed,1217
+Heart disease,Employed,766
+Kidney disease,Employed,250
+Lung condition,Employed,231
+Mental Health,Employed,8058
+Stroke,Employed,148
+Arthritis,Unemployed or Not Stated,99
+Asthma,Unemployed or Not Stated,458
+Cancer,Unemployed or Not Stated,64
+Dementia,Unemployed or Not Stated,4
+Diabetes,Unemployed or Not Stated,115
+Heart disease,Unemployed or Not Stated,58
+Kidney disease,Unemployed or Not Stated,19
+Lung condition,Unemployed or Not Stated,16
+Mental Health,Unemployed or Not Stated,806
+Stroke,Unemployed or Not Stated,19
+Arthritis,Not in Labour Surface,1896
+Asthma,Not in Labour Surface,1179
+Cancer,Not in Labour Surface,426
+Dementia,Not in Labour Surface,1406
+Diabetes,Not in Labour Surface,1493
+Heart disease,Not in Labour Surface,347
+Kidney disease,Not in Labour Surface,493
+Lung condition,Not in Labour Surface,3169
+Mental Health,Not in Labour Surface,428
+Stroke,Not in Labour Surface,2930
+Arthritis,Unemployed or Not Stated,29
+Asthma,Unemployed or Not Stated,24
+Cancer,Unemployed or Not Stated,7
+Dementia,Unemployed or Not Stated,6
+Diabetes,Unemployed or Not Stated,24
+Heart disease,Unemployed or Not Stated,12
+Kidney disease,Unemployed or Not Stated,9
+Lung condition,Unemployed or Not Stated,0
+Mental Health,Unemployed or Not Stated,37
+Stroke,Unemployed or Not Stated,9

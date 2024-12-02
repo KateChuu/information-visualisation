@@ -1,0 +1,15 @@
+Category,Title ,URL,Description,Order
+Residential Dwellings,Melbourne City Dwellings Forecast,https://data.gov.au/dataset/ds-melbourne-city-of-melbourne-dwellings-and-household-forecasts-by-small-area-2020-2040/details?q=house,Forecasts for dwellings and households,1
+Residential Dwellings,Melbourne Postcodes,https://data.melbourne.vic.gov.au/explore/dataset/postcodes/information/,Postcode boundaries and information,2
+Residential Dwellings,Melbourne Housing Market,https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market/data,Melbourne housing clearance data,3
+Residential Dwellings,Census Data Packs,https://www.abs.gov.au/census/find-census-data/datapacks?release=2016&product=GCP&geography=LGA&header=S,2021 Census data by LGA,4
+Residential Dwellings,Administrative data snapshot of housing ,https://www.abs.gov.au/statistics/people/housing/administrative-data-snapshot-population-and-housing-experimental-housing-data/30-june-2021#data-downloads,Snapshot of Australia's housing using administrative data,5
+Health and Well Being,Municipal Boundary,https://data.melbourne.vic.gov.au/explore/dataset/municipal-boundary/information/,Melbourne municipal boundaries,1
+Health and Well Being,Sport Facilities,https://discover.data.vic.gov.au/dataset/sport-and-recreational-facilities-list,Sport and recreational facilities listing,2
+Health and Well Being,Medicare Services,https://www.aihw.gov.au/reports/medicare/mbs-funded-services-data/data,"
+MBS funded services data",3
+Transport and Education,Train Station Patronage,https://discover.data.vic.gov.au/dataset/annual-metropolitan-train-station-patronage-station-entries,Annual metro train station entries,1
+Transport and Education,Bus Stops,https://data.melbourne.vic.gov.au/explore/dataset/bus-stops/table/,Melbourne bus stop locations,3
+Transport and Education,School Locations,https://discover.data.vic.gov.au/dataset/school-locations-2020,Victorian school locations 2020,3
+Transport and Education,Tram Stops,https://discover.data.vic.gov.au/dataset/ptv-metro-tram-stops,Metro tram stop locations,4
+Transport and Education,Metropolitan train station patronage,https://discover.data.vic.gov.au/dataset/annual-metropolitan-train-station-patronage-station-entries,Total and daily average patronage,5
